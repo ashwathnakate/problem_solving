@@ -1,9 +1,6 @@
 
 # 🚀 Problem Solving Playground
 
-![Repo Size](https://img.shields.io/github/repo-size/ashwathnakate/problem_solving)
-![Last Commit](https://img.shields.io/github/last-commit/ashwathnakate/problem_solving)
-![License](https://img.shields.io/github/license/ashwathnakate/problem_solving)
 ![Solved Challenges](https://img.shields.io/badge/Solved-6%2F6-blue)
 
 Welcome to my digital dojo of algorithmic battles and brain teasers. This repository is where I sharpen my coding skills, one HackerRank challenge at a time. Whether you're here to learn, peek at solutions, or just curious—grab a seat and let's dive in.
